@@ -7,3 +7,10 @@ console-data
 console-setup
 usbmount
 dosfstools
+gnupg-agent
+libpth20
+pinentry-curses
+libccid
+pcscd
+scdaemon
+libksba8
